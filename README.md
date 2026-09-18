@@ -26,3 +26,16 @@ What we need is to repurpose and renew our already existing technology.
 
 
 I'm sure everyone has an old phone, laptop, or computer lying around rotting in a junk pile somewhere. These are Perfectly functioning machines that should be repurposed into a cool & fun hobby project like a custom dumbphone, homeserver, retro time machine, homelab, NAS, cyberdeck, audio player, and so much more. 
+
+# Setup:
+
+To start, Enable Developer Options (tap Build Number 7 times) and turn on OEM unlocking.
+
+
+Power off the phone, hold Volume Up + Volume Down, and connect the phone to a PC. Unlock the bootloader via the on-screen prompts.
+
+
+Install the vbmeta.img and Lineage Recovery using specialized tools like samloader-rs or Odin depending on your computer's operating system.
+
+
+t into Lineage Recovery, perform a factory reset (Format data / factory reset), and use adb sideload to flash the official LineageOS .zip package.
