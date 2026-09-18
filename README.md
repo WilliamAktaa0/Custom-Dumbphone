@@ -1,4 +1,4 @@
-# Renew your old smartphone into a dumbphone and mp3 player.
+# Why such a project is needed modern day 
 
 There are approximately 7.58 billion active smartphones in the world. However, Analysis by the team at Manochi shows that a total of only 6.12 billion people around the world were using the internet at the start of April 2026, equivalent to only 73.8 percent of the world’s total population. The math shows a clear picture: hyperconsumption at the top paired with a digital divide at the bottom. 
 
